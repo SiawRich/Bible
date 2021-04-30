@@ -9,7 +9,7 @@ root = Tk()
 root.title("The Holy Bible")
 root.resizable(0,0)
 
-icon = PhotoImage(file='C:/Users/OWNER/OneDrive/Desktop/Bible/Bible/bible.png')
+icon = PhotoImage(file='C:/Users/OWNER/OneDrive/Desktop/Bible/bible.png')
 root.iconphoto(False,icon)
 
 url = "https://bible-api.com/"
